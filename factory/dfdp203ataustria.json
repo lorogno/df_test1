@@ -1,0 +1,9 @@
+{
+	"name": "dfdp203ataustria",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e254c6f9-117a-42d2-af0d-16be3e5b508a",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
